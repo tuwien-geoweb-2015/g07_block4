@@ -2,6 +2,7 @@ require('../node_modules/openlayers/dist/ol.css');
 require('./index.css');
 
 var ol = require('openlayers');
+
 var send = require('./feedback_send');
 
 var url = 'http://student.ifip.tuwien.ac.at/geoserver/wfs';
