@@ -19,7 +19,7 @@ var map = new ol.Map({
   layers: [
     new ol.layer.Tile({
       source: new ol.source.OSM()
-    })
+    }),
     new ol.layer.Tile({
       source: new ol.source.TileWMS({
         url: url,

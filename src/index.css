@@ -3,4 +3,17 @@ body {
 }
 #map {
   height: 400px;
+  float: left;
+  width: 45%;
+  height: 100%;
+  margin-left: 5%;
+
+
+}
+#right {
+  float: right;
+  width: 45%;
+  height: 100%;
+
+
 }
